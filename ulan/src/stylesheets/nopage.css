@@ -1,5 +1,4 @@
-
-.homeMDiv {
+.nopageMDiv {
 
     height: 89vh;
     width: 96vw;
@@ -9,7 +8,6 @@
     position: absolute;
 }
 
-.homeMDiv h1, p {
+.nopageMDiv h1, p {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
 }

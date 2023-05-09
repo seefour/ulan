@@ -1,12 +1,18 @@
 html, body {
     height: 100%;
     width: 100%;
+
+    margin: 0px;
 }
 
 body {
-    background: rgb(0,53,69);
-    background: linear-gradient(146deg, rgba(0,53,69,1) 0%, rgba(0,0,0,1) 52%, rgba(0,0,0,1) 53%, rgba(67,0,84,1) 100%);
+    background: rgb(7,26,27);
+    background: linear-gradient(180deg, rgba(7,26,27,1) 0%, rgba(0,0,0,1) 100%);
     margin: 0;
     padding: 0;
     color: white;
+}
+
+* {
+    margin: 0px;
 }

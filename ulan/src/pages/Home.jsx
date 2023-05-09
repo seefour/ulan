@@ -8,7 +8,10 @@ export default function Home() {
   return (
     <>
         <Header />
-        <h2>HomePage</h2>
+        <div class="homeMDiv">
+          <h1>Welcome</h1>
+          <p>This is the homer page ( simpson )  </p>
+        </div>
 
     </>
   )
